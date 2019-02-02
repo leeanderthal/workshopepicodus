@@ -1,0 +1,33 @@
+h1 {
+  color: #5179ba;
+}
+h3 {
+  color: red;
+}
+h4 {
+  background-color: white;
+}
+body  {
+  color: green;
+  background-color: lightgray;
+}
+.list-item {
+  font-family: monospace;
+}
+#css-item {
+  color: orange;
+}
+#js-item {
+  background-color: black;
+}
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: red purple white grey;
+}
